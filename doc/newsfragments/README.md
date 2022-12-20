@@ -11,3 +11,4 @@ The file extension specifies the type of a change. The following are currently s
  - .security: a fix for security issue.
  - .doc: a documentation improvement.
  - .removal: a deprecation or removal of functionality.
+local merge test
