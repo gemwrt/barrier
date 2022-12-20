@@ -1,4 +1,4 @@
-# Barrier
+# Barrier fork
 
 Eliminate the barrier between your machines.
 Find [releases for windows and macOS here](https://github.com/debauchee/barrier/releases).
